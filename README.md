@@ -43,6 +43,6 @@
 
 😈 `cd World`
 
-👾 `python2 Cloning.py`
+👾 `git Cloning.py`
 
 
