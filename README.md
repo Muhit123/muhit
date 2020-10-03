@@ -11,7 +11,7 @@
 <img src="blackmafia5.gif">
 <p align="center">
 <p align="center">
-<a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Muhit123/muhit"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/lovehacker404/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
